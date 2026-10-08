@@ -1,0 +1,10 @@
+bin/
+obj/
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.vs/
+publish/
+dist/
